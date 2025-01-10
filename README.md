@@ -70,6 +70,12 @@ The **Social Media Analyzer** has the potential to transform how users manage an
 Watch the full demo of the **Social Media Analyzer** on YouTube:  
 [**Watch the demo**](https://youtu.be/zfA9hS6jaIk?si=3gGhZ17MrVMy2fkH)
 
+## LangFlow Connections
+
+Below is an image of the **LangFlow** connections that power the AI-powered recommendations:
+
+![LangFlow Connections](https://drive.google.com/uc?id=1_4xQicp0kwY0yS5Aec3jFr6FmR9Tu1M4)
+
 ## Getting Started
 
 To get started with the **Social Media Analyzer**, follow these steps:
